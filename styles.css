@@ -131,6 +131,12 @@ hr {
     margin: auto;
 }
 
+.hero .hero-img-two {
+    max-width: 450px;
+    display: block;
+    margin: auto;
+}
+
 .hero .hero-heading {
     text-align: center;
     padding-top: 0rem;
