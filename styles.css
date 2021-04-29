@@ -6,6 +6,7 @@
     --dark-gray: #8B5CF6;
 }
 
+
 body {
     font-family: 'Raleway', sans-serif;
     margin: 1px
@@ -178,6 +179,18 @@ hr {
 .ow {
     background-color: var(--off-white);
 }
+
+/** floating thought box **/
+
+.flowthoughts {
+    background-color: lightgrey;
+    text-align: center;
+    margin: 1px;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+  } 
 
 /** footers **/
 
